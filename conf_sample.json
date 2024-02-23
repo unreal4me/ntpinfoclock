@@ -1,0 +1,1 @@
+{"SSID": "", "MACHINE_RESETS": 0, "SSID_PASS": "", "SSID_RETRY": 3, "INFO" : {"COUNTER_URL": "http://ext_service/counter", "MOON_DATA_URL": "http://ext_service/?lat=44.1234N&lon=22.123E"} }
